@@ -6,4 +6,4 @@ A Computer science student in the honors college at GVSU, a huge Linux and FOSS 
 
 ### My Resume
 
-[![Resume](https://james-1701.github.io/resume/resume.png)](https://github.com/James-1701/resume)
+[![Resume](https://james-1701.github.io/Resume/resume.png)](https://github.com/James-1701/resume)
