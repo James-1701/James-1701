@@ -9,10 +9,10 @@ My interest in computing started during high school when I learned Linux and sta
 ## Technologies & Tools
 
 ### Languages
-[![Languages](https://skillicons.dev/icons?i=c,cpp,rust,cs,java,python,bash,js,ts,html,css)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=rust,c,cpp,cs,js,ts,html,css,python,bash)](https://skillicons.dev)
 
-### Infrastructure & Development
-[![Tools](https://skillicons.dev/icons?i=nix,linux,docker,git,github,githubactions,postgres)](https://skillicons.dev)
+### Others
+[![Tools](https://skillicons.dev/icons?i=linux,nix,docker,git,github,githubactions,postgres)](https://skillicons.dev)
 
 ---
 
